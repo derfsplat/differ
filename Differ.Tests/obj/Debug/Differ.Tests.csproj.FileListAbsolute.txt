@@ -1,0 +1,11 @@
+C:\source\differ\Differ.Tests\obj\Debug\Differ.Tests.csprojResolveAssemblyReference.cache
+C:\source\differ\Differ.Tests\bin\Debug\Differ.Tests.dll
+C:\source\differ\Differ.Tests\bin\Debug\Differ.Tests.pdb
+C:\source\differ\Differ.Tests\bin\Debug\Differ.dll
+C:\source\differ\Differ.Tests\bin\Debug\Ploeh.AutoFixture.dll
+C:\source\differ\Differ.Tests\bin\Debug\xunit.dll
+C:\source\differ\Differ.Tests\bin\Debug\Differ.pdb
+C:\source\differ\Differ.Tests\bin\Debug\Ploeh.AutoFixture.xml
+C:\source\differ\Differ.Tests\bin\Debug\xunit.xml
+C:\source\differ\Differ.Tests\obj\Debug\Differ.Tests.dll
+C:\source\differ\Differ.Tests\obj\Debug\Differ.Tests.pdb
