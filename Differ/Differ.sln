@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Differ", "Differ.csproj", "{CA5D490C-B1BC-4829-9184-A3F23C8AE041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Differ.Tests", "..\Differ.Tests\Differ.Tests.csproj", "{06F9D7A3-CFB9-43B8-945F-3693E8DC1EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5D490C-B1BC-4829-9184-A3F23C8AE041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5D490C-B1BC-4829-9184-A3F23C8AE041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5D490C-B1BC-4829-9184-A3F23C8AE041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5D490C-B1BC-4829-9184-A3F23C8AE041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F9D7A3-CFB9-43B8-945F-3693E8DC1EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F9D7A3-CFB9-43B8-945F-3693E8DC1EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F9D7A3-CFB9-43B8-945F-3693E8DC1EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F9D7A3-CFB9-43B8-945F-3693E8DC1EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
