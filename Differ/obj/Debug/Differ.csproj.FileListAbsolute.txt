@@ -1,5 +1,0 @@
-C:\source\differ\Differ\bin\Debug\Differ.dll
-C:\source\differ\Differ\bin\Debug\Differ.pdb
-C:\source\differ\Differ\obj\Debug\Differ.csprojResolveAssemblyReference.cache
-C:\source\differ\Differ\obj\Debug\Differ.dll
-C:\source\differ\Differ\obj\Debug\Differ.pdb
