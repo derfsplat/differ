@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>derfsplat.Differ</id>
+    <version>0.1.0.0</version>
+    <title>Differ - Simple Object Diffing</title>
+    <authors>Fred Johanns III</authors>
+    <owners>Fred Johanns III</owners>
+    <summary>Lists differences between two different instances of a given type T</summary>
+    <description>See project site for more details https://github.com/derfsplat/differ</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>
+        * 0.1.0.0 Initial release
+        </releaseNotes>
+    <projectUrl>https://github.com/derfsplat/differ</projectUrl>
+    <iconUrl>https://github.com/derfsplat/differ/raw/master/logo.png</iconUrl>
+    <tags>diff compare object audit change track</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+    <file src="src\Differ\bin\Debug\Differ.dll" target="lib\net35" />
+  </files>
+</package>
