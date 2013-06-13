@@ -43,7 +43,7 @@ namespace Differ
                 //get friendly name, if htere is one
                 var display = prop.GetCustomAttributes(typeof(DisplayNameAttribute), false).FirstOrDefault() as DisplayNameAttribute;
                 string name = prop.Name;
-                if (display != null) name = string.IsNullOrWhiteSpace(display.DisplayName) ? prop.Name : display.DisplayName;
+                if (display != null) name = string.IsNullOrEmpty(display.DisplayName) ? prop.Name : display.DisplayName;
 
                 // []
                 il.Emit(OpCodes.Ldarg_0);
